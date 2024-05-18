@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.7dc70849.css","mappings":"AAAA,kBACE,kIACsE,CACtE,YACF","sources":["App.module.css"],"sourcesContent":[".title {\n  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,\n    Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;\n  font-size: 18;\n}\n"],"names":[],"sourceRoot":""}
